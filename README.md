@@ -1,12 +1,8 @@
 # Hardware
 
-```
-npm create astro@latest -- --template basics
-```
-
 This is my battlestation, studio and other equipment. 
 
-
+----
 
 ## 🚀 Project Structure
 
