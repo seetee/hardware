@@ -7,6 +7,7 @@ html {
 h1 {
   background: var(--gradient-1);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   line-height: var(--font-lineheight-1);
   font-size: var(--font-size-fluid-3);
@@ -23,6 +24,7 @@ main {
   aspect-ratio: 16 / 9;
   max-width: 80vw;
   min-width: 50vw;
+  margin-block: 4em;
   border-radius: var(--radius-2);
   padding: var(--size-fluid-3);
   box-shadow: var(--shadow-2);
@@ -36,8 +38,24 @@ main {
   }
 
   h2 {
-    float: left;
-    transform: rotate(-90deg);
+    padding: 2em;
+    margin-block-start: -1em;
+    margin-inline-start: -1em;
+    width: 70%;
+    text-align: center;
+    line-height: var(--font-lineheight-1);
+    font-size: var(--font-size-fluid-2);
+    font-weight: var(--font-weight-9);
+    background-image: var(--gradient-7);
+    font-family: var(--font-sans);
+
+    @media (--OSdark) {
+      background-image: var(--gradient-15);
+  }
+  }
+
+  dl {
+    margin-inline-start: 6em;
   }
 
   dt {
