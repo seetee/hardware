@@ -1,0 +1,49 @@
+@import "https://unpkg.com/open-props";
+
+html {
+  background: var(--gray-3);
+}
+
+h1 {
+  background: var(--gradient-1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: var(--font-lineheight-1);
+  font-size: var(--font-size-fluid-3);
+  font-weight: var(--font-weight-9);
+  font-family: var(--font-sans);
+}
+
+main {
+  display: grid;
+  justify-content: center;
+}
+
+.card {
+  aspect-ratio: 16 / 9;
+  max-width: 80vw;
+  min-width: 50vw;
+  border-radius: var(--radius-2);
+  padding: var(--size-fluid-3);
+  box-shadow: var(--shadow-2);
+
+  &:hover {
+    box-shadow: var(--shadow-3);
+  }
+
+  @media (--motionOK) {
+    animation: var(--animation-fade-in);
+  }
+
+  h2 {
+    float: left;
+    transform: rotate(-90deg);
+  }
+
+  dt {
+    margin-block-start: 1em;
+    display: inline-block;
+    font-size: var(--font-size-4);
+    font-weight: var(--font-weight-9);
+  }
+}
