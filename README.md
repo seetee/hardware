@@ -23,11 +23,11 @@
 -->
 
 ### Peripheral
-    <dl>
-      <dt>Mus</dt><dd>Logitech M500</dd>
-      <dt>Tangentbord</dt><dd>Kinesis Freestyle 2</dd>
-      <dt>Skärm</dt><dd>2x Dell G2724D, Lenovo ThinkVision P27h-10</dd>
-    </dl>
+  <dl>
+    <dt>Mus</dt><dd>Logitech M500</dd>
+    <dt>Tangentbord</dt><dd>Kinesis Freestyle 2</dd>
+    <dt>Skärm</dt><dd>2x Dell G2724D, Lenovo ThinkVision P27h-10</dd>
+  </dl>
 
 <!-- 
 <h2>Keane</h2>
