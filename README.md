@@ -29,13 +29,16 @@
     <dt>Skärm</dt><dd>2x Dell G2724D, Lenovo ThinkVision P27h-10</dd>
   </dl>
 
+## Bullet  
+
+
+## Keane  
 <!-- 
-<h2>Keane</h2>
 <dl>
-<dt>Laptop</dt><dd>HP ProBook 450 G7</dd>
-<dt>CPU</dt><dd>Intel Core i5-10210U 8x 4.2GHz (CometLake-U GT2 2019, 10th gen.)</dd>
-<dt>RAM</dt><dd>32GiB</dd>
-<dt>SSD</dt><dd>Samsung SSD 970 EVO Plus 1024GB</dd>
-<dt>GPU</dt><dd>Intel Mesa UHD Graphics (CML GT2)</dd>
+  <dt>Laptop</dt><dd>HP ProBook 450 G7</dd>
+  <dt>CPU</dt><dd>Intel Core i5-10210U 8x 4.2GHz (CometLake-U GT2 2019, 10th gen.)</dd>
+  <dt>RAM</dt><dd>32GiB</dd>
+  <dt>SSD</dt><dd>Samsung SSD 970 EVO Plus 1024GB</dd>
+  <dt>GPU</dt><dd>Intel Mesa UHD Graphics (CML GT2)</dd>
 </dl>
 --> 
