@@ -10,14 +10,17 @@
     <dt>GPU</dt><dd>NVIDIA GeForce RTX 3060 Ventus OC (LWH: 235 x 124 x 42 mm)</dd>
   </dl>
 
-      <!-- dl>
-        <dt>Moderkort</dt><dd>MSI MAG Z390M MORTAR (mATX Socket-1151)</dd>
-        <dt>CPU</dt><dd>Intel Core i7-9700K 3.6/4.9GHz, 8-Core, 8-Thread (Coffee Lake-S Refresh 2018, 9th gen.)</dd>
-        <dt>RAM</dt><dd>Corsair Vengeance LPX DDR4 32GB 3200MHz (4x8GB)</dd>
-        <dt>PSU</dt><dd>Corsair CX650M</dd>
-        <dt>NVMe</dt><dd>Intel SSD 660p M.2 2280 x4 1024GB</dd>
-        <dt>GPU</dt><dd>NVIDIA GeForce RTX 3060 Ventus OC</dd>
-    </dl -->
+<!-- 
+<dl>
+<dt>Moderkort</dt><dd>MSI MAG Z390M MORTAR (mATX Socket-1151)</dd>
+<dt>CPU</dt><dd>Intel Core i7-9700K 3.6/4.9GHz, 8-Core, 8-Thread (Coffee Lake-S Refresh 2018, 9th gen.)</dd>
+<dt>RAM</dt><dd>Corsair Vengeance LPX DDR4 32GB 3200MHz (4x8GB)</dd>
+<dt>PSU</dt><dd>Corsair CX650M</dd>
+<dt>NVMe</dt><dd>Intel SSD 660p M.2 2280 x4 1024GB</dd>
+<dt>GPU</dt><dd>NVIDIA GeForce RTX 3060 Ventus OC</dd>
+</dl> 
+
+-->
 
 ### Peripheral
     <dl>
@@ -27,12 +30,12 @@
     </dl>
 
 <!-- 
-      <h2>Keane</h2>
-      <dl>
-        <dt>Laptop</dt><dd>HP ProBook 450 G7</dd>
-        <dt>CPU</dt><dd>Intel Core i5-10210U 8x 4.2GHz (CometLake-U GT2 2019, 10th gen.)</dd>
-        <dt>RAM</dt><dd>32GiB</dd>
-        <dt>SSD</dt><dd>Samsung SSD 970 EVO Plus 1024GB</dd>
-        <dt>GPU</dt><dd>Intel Mesa UHD Graphics (CML GT2)</dd>
-      </dl>
+<h2>Keane</h2>
+<dl>
+<dt>Laptop</dt><dd>HP ProBook 450 G7</dd>
+<dt>CPU</dt><dd>Intel Core i5-10210U 8x 4.2GHz (CometLake-U GT2 2019, 10th gen.)</dd>
+<dt>RAM</dt><dd>32GiB</dd>
+<dt>SSD</dt><dd>Samsung SSD 970 EVO Plus 1024GB</dd>
+<dt>GPU</dt><dd>Intel Mesa UHD Graphics (CML GT2)</dd>
+</dl>
 --> 
