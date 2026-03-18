@@ -7,7 +7,7 @@
     <dt>RAM</dt><dd>2x32GB Kingston DDR5 6000MT/s</dd>
     <dt>PSU</dt><dd>Corsair CX650M</dd>
     <dt>NVMe</dt><dd>Intel SSD 660p M.2 2280 x4 1024GB</dd>
-    <dt>GPU</dt><dd>NVIDIA GeForce RTX 3060 Ventus OC (LWH: 235 x 124 x 42 mm)</dd>
+    <dt>GPU</dt><dd>NVIDIA GeForce RTX 3060 12GB (LWH: 235 x 124 x 42 mm)</dd>
   </dl>
 
 <!-- 
